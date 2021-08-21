@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Mario Gallo\Documents\Projetos\Projeto JSF WEB\.metadata\.plugins\org.eclipse.jdt.core
+701620203.index
+3823697542.index
+1448340487.index
+545572120.index
+615308310.index
